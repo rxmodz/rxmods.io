@@ -47,7 +47,7 @@ header {
 }
 .welcome-text {
 	position: absolute;
-	width: 600px;
+	width: 500px;
 	height: 300px;
 	margin: 20% 30%;
 	text-align: center;
@@ -72,7 +72,7 @@ header {
 	color: #fff;
 }
 .welcome-text a:hover {
-	background: #fff;
+	background: #000;
 	color: #333;
 }
 /resposive/
